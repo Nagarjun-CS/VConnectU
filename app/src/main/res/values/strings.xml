@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VConnectU</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_about">about</string>
+    <string name="description_txt">Time is an essential factor for any university student. So finding a solution to save their time is our main objective and hence “VConnectU”. So this project focuses on the basic requirements of the students and we through our app make sure that we provide solutions for their problems.\n\n
+Through “VConnectU”, the user can pre-order food any time they want hence saving a lot of time standing in queue. People often loose their belongings in their busy schedule, our app provides a way to finding the owner for the lost objects. Keeping the campus clean is the main duty of any student so inspired  by Swach Bharat program we through our app provide facility to report any uncleaned areas in campus to the required authority.\n\n\n
+<b><i>OBJECTIVE:</i> </b>\n\n
+        <i>The main objective of “VConnectU” :</i>\n
+<b>-></b> To find provide time saving facilities in ordering the food.\n
+<b>-></b> To report any lost belongings to the owner.\n
+<b>-></b> To keep the campus clean.\n\n\n
+<b><i>Now-a-days students in the university face a lot problems so we through our app “VConnectU” try to solve the following problems:</i> </b>\n\n
+<b>-></b> Canteens in the universities will be crowded most the time, so for any students in their leisure to go there and waiting in queue to order food is time consuming.\n
+<b>-></b> Students often loose their belongings in the campus and in that crowded place it is very difficult to find it .\n
+<b>-></b> To clean the entire campus all alone is very difficult.\n\n\n
+<b><i>Through our app “VConnectU” we can do all these in just a few clicks away.</i> </b>\n\n\n
+</string>
+    <string name="title_activity_help">help</string>
+    <string name="title_activity_feedback">feedback</string>
+    <string name="title_activity_waste">waste</string>
+    <string name="title_activity_images">imagesActivity</string>
+    <string name="title_activity_lost">lost</string>
+    <string name="title_activity_images2">imagesActivity2</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867199413906",
+    "firebase_url": "https://vconnectu5.firebaseio.com",
+    "project_id": "vconnectu5",
+    "storage_bucket": "vconnectu5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867199413906:android:86b371a7e767c973c9c04b",
+        "android_client_info": {
+          "package_name": "com.example.nagar.vconnectu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867199413906-kephfvbjf7jdp2fq3vqlcdo6ro7in1em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nagar.vconnectu",
+            "certificate_hash": "1e2d6e99808a098a5997dd99525bc1ac37edf148"
+          }
+        },
+        {
+          "client_id": "867199413906-r5qc4qb9dls39ap8rnbev7keeb3hllmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdtUgM9MMRJJKlaI3lI9fztskZxav4BFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867199413906-r5qc4qb9dls39ap8rnbev7keeb3hllmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
